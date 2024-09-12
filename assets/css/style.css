@@ -77,6 +77,41 @@
 #cover-text > h2, #cover-text > h3 {
     color: #ffffff;
 }
+/* About us */
+#about {
+  width: 100%;
+  margin: auto;
+}
+
+#about h2 {
+  text-align: center;
+  font-size: 280%;
+  background-color: #0082e6;
+  height: 95px;
+  margin-bottom: 15px;
+  color: #ffffff;
+  padding: 20px 20px;
+}
+
+#enjoy{
+  margin: 20px;
+}
+
+#enjoyment > div,
+#aboutus > div {
+  line-height: 20px;
+  margin-bottom: 20px;
+}
+
+#enjoy p {
+  padding: 0 20px;
+}
+
+#enjoy hr {
+  border-top: 1px solid #000000;
+  margin: 5px 0;
+}
+
 
   @media (max-width: 952px){
     /* Navigation */
