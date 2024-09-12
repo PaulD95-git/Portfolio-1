@@ -8,6 +8,7 @@
   body{
     font-family: "Montserrat", sans-serif;
   }
+  /* Navigation */
   nav{
     background: #0082e6;
     height: 80px;
@@ -52,7 +53,30 @@
   #check{
     display: none;
   }
+  /* Intro section */
+#intro {
+    height: 600px;
+    width: 100%;
+    position: relative;
+}
+
+#cover-text {
+    min-height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+    background-color: rgba(67, 110, 228, 0.75);
+    font-size: 130%;
+    position: absolute;
+    bottom: 30px;
+    width: 80%;
+}
+
+#cover-text > h2, #cover-text > h3 {
+    color: #ffffff;
+}
+
   @media (max-width: 952px){
+    /* Navigation */
     label.logo{
       font-size: 30px;
       padding-left: 50px;
@@ -63,6 +87,7 @@
     }
   }
   @media (max-width: 768px){
+    /* Navigation */
     .checkbtn{
       display: block;
     }
@@ -96,8 +121,4 @@
       left: 0;
     }
   }
-  section{
-    background: url(bg1.jpg) no-repeat;
-    background-size: cover;
-    height: calc(100vh - 80px);
-  }
+ 
