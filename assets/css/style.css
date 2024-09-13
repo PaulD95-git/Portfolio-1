@@ -118,22 +118,21 @@
   transition: transform 0.3s, box-shadow 0.3s;
 }
 
-#enjoy p {
-  padding: 0 20px;
-}
-
-#enjoy hr {
-  border-top: 1px solid #000000;
-  margin: 5px 0;
-}
-
 #enjoy h3 {
+  font-size: 24px;
+  color: #fff;
   margin-bottom: 10px;
 }
 
 #enjoy hr {
-  border-top: 1px solid #000000;
+  border-top: 1px solid #ffffff;
   margin: 5px 0;
+}
+
+#enjoy p {
+  color: #f1f1f1; /* Softer white text */
+  font-size: 16px;
+  line-height: 1.5;
 }
 
 
