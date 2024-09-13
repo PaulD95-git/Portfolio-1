@@ -5,8 +5,13 @@
     list-style: none;
     box-sizing: border-box;
   }
-  body{
-    font-family: "Montserrat", sans-serif;
+  
+  body {
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(to right, #6a11cb, #2575fc); /* Gradient background */
+    margin: 0;
+    padding: 0;
+    color: #fff;
   }
   /* Navigation */
   nav{
@@ -110,6 +115,15 @@
 
 #enjoy p {
   padding: 0 20px;
+}
+
+#enjoy hr {
+  border-top: 1px solid #000000;
+  margin: 5px 0;
+}
+
+#enjoy h3 {
+  margin-bottom: 10px;
 }
 
 #enjoy hr {
