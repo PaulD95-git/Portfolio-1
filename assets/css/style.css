@@ -44,10 +44,12 @@
     border-radius: 3px;
     text-transform: uppercase;
   }
-  a.active,a:hover{
+
+  #hov a:hover{
     background: #1b9bff;
     transition: .5s;
   }
+
   .checkbtn{
     font-size: 30px;
     color: white;
