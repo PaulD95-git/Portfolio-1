@@ -86,7 +86,20 @@
 }
 
 #cover-text > h2, #cover-text > h3 {
-    color: #ffffff;
+  color: #ffffff;
+  font-weight: 400;
+  text-transform: uppercase; 
+  letter-spacing: 1px; 
+}
+
+#cover-text h2 {
+  font-size: 250%; 
+  margin-bottom: 15px;
+}
+
+#cover-text h3 {
+  font-size: 180%;
+  font-weight: 300; 
 }
 /* About us */
 #about {
