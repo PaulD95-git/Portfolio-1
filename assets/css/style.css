@@ -156,7 +156,7 @@
 }
 
 #enjoy p {
-  color: #f1f1f1; /* Softer white text */
+  color: #f1f1f1; 
   font-size: 16px;
   line-height: 1.5;
 }
@@ -175,8 +175,8 @@
 
     /* About us */
     #enjoy {
-      grid-template-columns: 1fr;  /* Single column for smaller screens */
-      grid-template-rows: auto;    /* Auto rows */
+      grid-template-columns: 1fr;  
+      grid-template-rows: auto;    
       gap: 15px;
       height: auto;
   }
