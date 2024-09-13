@@ -66,6 +66,12 @@
     width: 100%;
     position: relative;
     background: url(../css/images/coding\ classes.webp) no-repeat center center/cover;
+    background-size: cover; 
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    overflow: hidden;
 }
 
 #cover-text {
