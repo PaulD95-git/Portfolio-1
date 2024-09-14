@@ -9,8 +9,8 @@ Welcome to **Dublin Coding**, an educational platform offering coding classes fo
 3. [Technologies Used](#technologies-used)
 4. [How to Use](#how-to-use)
 5. [Code Structure](#code-structure)
-6. [Contributing](#contributing)
-7. [Credits](#credits)
+6. [Credits](#credits)
+7. [Bugs](#bugs)
 
 ---
 
@@ -101,3 +101,15 @@ dublin-coding/
 │
 ├── index.html               # Main HTML file for the website
 └── README.md                # Documentation file
+
+---
+
+## Bugs
+
+### Known Issues
+
+1. **Navigation Menu Not Closing on Click (Mobile View)**
+   - **Description**: On mobile devices, the navigation menu does not automatically close when a link is clicked.
+
+2. **Social Media Icons Accessibility**
+   -**Description**: The social media icons in the footer may not be fully accessible to all screen readers.
