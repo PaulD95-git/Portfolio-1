@@ -10,8 +10,9 @@ Welcome to **Dublin Coding**, an educational platform offering coding classes fo
 4. [How to Use](#how-to-use)
 5. [Credits](#credits)
 6. [Bugs](#bugs)
-7. [Deploymeny](#deployment)
-8. [Code Structure](#code-structure)
+7. [Validator](#validator)
+8. [Deploymeny](#deployment)
+9. [Code Structure](#code-structure)
 
 ---
 
@@ -104,6 +105,11 @@ The **Dublin Coding Website** serves as the main digital presence for our coding
 -Description: The social media icons in the footer may not be fully accessible to all screen readers.
 
 ---
+
+## Validator
+Html5 has been validated using Nu Html Checker (no errors)
+
+Css3 has been validated using The W3c CSS Vaildation Service (no errors)
 
 ## Deployment
 The site was deployed to GitHub Pages. The steps to deploy are as follows:
