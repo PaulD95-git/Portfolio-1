@@ -114,8 +114,9 @@ The live link can be found here - https://pauld95-git.github.io/Portfolio-1/
 
 ## Credits
 
-Navbar inspired by CodingNepal - codingnepalweb.com
-Image taken from - https://www.themuse.com/advice/10-free-classes-to-learn-to-code-if-you-have-absolutely-no-idea-where-to-start scanrail/Getty Images
+Navbar inspired by CodingNepal - codingnepalweb.com.
+
+Image taken from - https://www.themuse.com/advice/10-free-classes-to-learn-to-code-if-you-have-absolutely-no-idea-where-to-start scanrail/Getty Images.
 
 ---
 
