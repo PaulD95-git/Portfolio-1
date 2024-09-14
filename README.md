@@ -1,6 +1,7 @@
 # Dublin Coding Website
 
 Welcome to **Dublin Coding**, an educational platform offering coding classes for all ages. This website provides essential information about our services, benefits, and the sign-up process. It also includes convenient links to our social media channels, encouraging engagement with our community.
+![Responsive](./assets/css/images/responsive.png)
 
 ## Table of Contents
 
@@ -109,7 +110,7 @@ The **Dublin Coding Website** serves as the main digital presence for our coding
 ## Validator
 Html5 has been validated using Nu Html Checker (no errors)
 
-Css3 has been validated using The W3c CSS Vaildation Service (no errors)
+Css3 has been validated W3C CSS Validator results for TextArea (CSS level 3 + SVG) (no errors)
 
 ## Deployment
 The site was deployed to GitHub Pages. The steps to deploy are as follows:
