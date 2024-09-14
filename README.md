@@ -96,8 +96,11 @@ The **Dublin Coding Website** serves as the main digital presence for our coding
 
 ### Known Issues
 1. Navigation Menu not closing on click (moblie view)
+
 -Description: On mobile devices, the navigation menu does not automatically close when a link is clicked.
+
 2. Social Media Icons bot showing for mobile view
+
 -Description: The social media icons in the footer may not be fully accessible to all screen readers.
 
 ---
