@@ -8,9 +8,10 @@ Welcome to **Dublin Coding**, an educational platform offering coding classes fo
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
 4. [How to Use](#how-to-use)
-5. [Code Structure](#code-structure)
-6. [Credits](#credits)
-7. [Bugs](#bugs)
+5. [Credits](#credits)
+6. [Bugs](#bugs)
+7. [Deploymeny](#deployment)
+8. [Code Structure](#code-structure)
 
 ---
 
@@ -89,6 +90,35 @@ The **Dublin Coding Website** serves as the main digital presence for our coding
 ### Social Media
 - You can connect with **Dublin Coding** via the social media links in the footer. Each link opens in a new tab for easy access.
 
+---
+
+## Bugs
+
+### Known Issues
+1. Navigation Menu not closing on click (moblie view)
+-Description: On mobile devices, the navigation menu does not automatically close when a link is clicked.
+2. Social Media Icons bot showing for mobile view
+-Description: The social media icons in the footer may not be fully accessible to all screen readers.
+
+---
+
+## Deployment
+The site was deployed to GitHub Pages. The steps to deploy are as follows:
+
+In the GitHub repository, navigate to the Settings tab.
+From the source section drop-down menu, select the Master Branch.
+Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+The live link can be found here - https://pauld95-git.github.io/Portfolio-1/
+
+---
+
+## Credits
+
+Navbar inspired by CodingNepal - codingnepalweb.com
+Image taken from - https://www.themuse.com/advice/10-free-classes-to-learn-to-code-if-you-have-absolutely-no-idea-where-to-start scanrail/Getty Images
+
+---
+
 ## Code Structure
 
 ```plaintext
@@ -102,14 +132,3 @@ dublin-coding/
 ├── index.html               # Main HTML file for the website
 └── README.md                # Documentation file
 
----
-
-## Bugs
-
-### Known Issues
-
-1. **Navigation Menu Not Closing on Click (Mobile View)**
-   - **Description**: On mobile devices, the navigation menu does not automatically close when a link is clicked.
-
-2. **Social Media Icons Accessibility**
-   -**Description**: The social media icons in the footer may not be fully accessible to all screen readers.
